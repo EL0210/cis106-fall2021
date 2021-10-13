@@ -1,5 +1,5 @@
 ## Question 2 | Create Virtual Machine
-Before you can create virtual machines, you need to install VirtualBox and VirtualBox Extension Pack. To download Vbox and the extension pack go to:
+
 ![](Capture2.png)
 
 ![](Capture3.png)
