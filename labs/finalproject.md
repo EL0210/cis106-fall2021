@@ -49,8 +49,8 @@ A downloadable application used to create bootable usb flash drives.
   * Step 3 
 Once everything is plug you click in the boot selection click select next to the boot selection. Once you click you will be send to your download folder in which you will choose the Distribution you downloaded finally you click on start at the bottom of the rufus app. 
 ![ex2](images/ex2.png) and select the ![ex3](images/ex3.png)
-* step 4 
-* Once everything is finally downloaded you can close rufus and eject your usb.
+ * step 4 
+ * Once everything is finally downloaded you can close rufus and eject your usb.
 ### How boot linux in a new device
 * Step 1 
 Plug in your flash drives which contains your distro in this case is Ubuntu.
